@@ -10,8 +10,10 @@ git-lfs install
 git clone https://github.com/vu-leduc/ApplePhotogrammetryCMD.git
 ```
 
+Since this project is dedicated only for MacOs, therefore there are some closed-source software built in XCode, which is not available on neither Windows nor Linux. Make sure you have XCode installed in your evironment.
+
 ## Usage
-First, download a sample from this link and unzip it [link](https://drive.google.com/file/d/17H61kSlPJXZfIqfKfs_AKyi9Ygdxe-jS/view?usp=share_link). After building the package, you should be able to see it in `../Products/usr/local/bin/HelloPhotogrammetry`
+First, download a sample from this link and unzip it [link](https://drive.google.com/file/d/17H61kSlPJXZfIqfKfs_AKyi9Ygdxe-jS/view?usp=share_link). After building the package, you should be able to see it in `../Products/usr/local/bin/HelloPhotogrammetry`. Then follow a sample script in `./scripts/script.sh` to play with your own demo.
 
 ## Overview
 
